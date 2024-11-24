@@ -1,11 +1,12 @@
-# flare-on-11
+# Flare-On 11 Solutions
 
-Files used for solving flare-on 11 challenges up to challenge 6, challenge 7 is not complete.
+This repository contains files and resources used to solve the **Flare-On 11** challenges up to **Challenge 6**. Note: **Challenge 7** is not fully solved.
 
-This repository contains:
+### Contents
+- **Original Challenges**: Provided as 7z archives, all protected with the password `flare`.
+- **Ghidra Exported Files**: Files ending in `.gzf`, ready to be imported into a Ghidra project.
+- **Custom Scripts**: Various scripts developed and used during the solving process.
 
-* Original challenges, 7z archives with the password `flare`
-* Ghidra exported files, for importing into a ghidra project, files ending in .gzf
-* Multiple scripts used for getting the job done
+### Additional Resources
+For detailed write-ups of each solved challenge, visit my blog: [vik0t0r.github.io](https://vik0t0r.github.io/posts/flare-on-11-write-up/).
 
-You can check the actual write-ups [here](https://vik0t0r.github.io)
